@@ -29,16 +29,16 @@ var data =
 				question: "Which drug depolymerises mucopolysaccharides of mucus?",
 				option1: "Guaiphenesin",
 				option2: "Nascopine",
-				option3: "Bromohexine",
+				option3: "Bromhexine",
 				option4: "Diphenhydramine",
 				answer: 3
-			},
-			{
-				question: "when should be Systemic antitussives recommended",
-				option1: "For a productive cough that interferes with sleep",
-				option2: "Any type of cough",
-				option3: "Usually not recommended",
-				answer: 1
 			}
+			// {
+			// 	question: "when should be Systemic antitussives recommended",
+			// 	option1: "For a productive cough that interferes with sleep",
+			// 	option2: "Any type of cough",
+			// 	option3: "Usually not recommended",
+			// 	answer: 1
+			// }
 		]
 	];
